@@ -1,4 +1,4 @@
-
+<h1>IN PROGRESS</h1>
 <p><a href="https://www.coursera.org/lecture/neural-networks-deep-learning/">Neural Network and Deep Learning</href></a></p>
 <p><a href="https://www.udemy.com/course/deep-learning-ve-python-adan-zye-derin-ogrenme-5/">Deep Learning ve Python: A'dan Z'ye Derin Öğrenme (5)</href></a></p>
 <p><a href="https://www.udemy.com/course/machine-learning-ve-python-adan-zye-makine-ogrenmesi-4/">Machine Learning ve Python: A'dan Z'ye Makine Öğrenmesi (4)</href></a></p>
